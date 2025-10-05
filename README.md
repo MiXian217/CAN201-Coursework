@@ -16,7 +16,7 @@ This part of the project focuses on the fundamentals of network programming by b
 
 ### Demo (Part I)
 
-![GUI Client Demo](./docs/socket-client-demo.png)
+![GUI Client Demo](./images/socket-client-demo.png)
 *(Note: This is a placeholder. You should replace this with a screenshot of your running `client.py` GUI.)*
 
 ### Features
@@ -59,7 +59,7 @@ This part explores modern networking concepts by creating a Software-Defined Net
 
 ### Demo (Part II)
 
-![SDN Mininet Demo](./docs/sdn-mininet-demo.png)
+![SDN Mininet Demo](./images/sdn-mininet-demo.png)
 *(Note: This is a placeholder. You should replace this with a screenshot of your terminals running Mininet and Ryu.)*
 
 ### Key Components & Scenarios
