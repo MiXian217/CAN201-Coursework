@@ -1,4 +1,4 @@
-# CAN201 Networking Project: From Sockets to SDN
+# Networking Project: From Sockets to SDN
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Tkinter%2C%20Mininet%2C%20Ryu-green.svg)
