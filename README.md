@@ -1,4 +1,4 @@
-# Networking Project: From Sockets to SDN
+# Network Application and Control System
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Frameworks](https://img.shields.io/badge/Frameworks-Tkinter%2C%20Mininet%2C%20Ryu-green.svg)
